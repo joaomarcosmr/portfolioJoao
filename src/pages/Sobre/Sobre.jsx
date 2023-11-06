@@ -30,7 +30,7 @@ const Sobre = () => {
                             </p>
                             <span>
                                 Me chamo João Marcos, tenho 21 anos e sou natural de Floranópolis.
-                                Desde o inicio de 2023 conheci o mercado de programação através de uma experiência profissional com tradução de vistos para o canada, e como sempre gostei muito de games e computador, comecei a procurar mais a respeito até começar a estudar de fato. E após as primeiras linhas de código, foi apenas paixão. E desde então, venho estudando e me desenvolvendo para entrar no mercado de trabalho. Adoro aprender, então estudar faz parte do meu dia-a-dia desde sempre. Dito isso, estou disposto a aprender e me entregar 100% do que preciso para entrar na área.
+                                No inicio de 2023, conheci o mercado de programação através de uma experiência profissional com tradução de vistos para o Canadá. E, como sempre gostei muito de games e computador, comecei a procurar mais a respeito, até começar a estudar de fato. Após as primeiras linhas de código, foi apenas paixão e desde então, venho estudando e me desenvolvendo para entrar no mercado de trabalho. Adoro aprender, então estudar faz parte do meu dia-a-dia desde sempre. Dito isso, estou disposto a aprender e me entregar 100% para entrar na área.
                             </span>
                         </div>
 

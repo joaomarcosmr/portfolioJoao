@@ -17,7 +17,7 @@ const Portfolio = () => {
                 </div>
                 <div className="col-lg-6 col-md-12 col-sm-12 col-12  order-lg-2 order-2 d-flex flex-column align-items-center justify-content-center">
                     <h3 className='mb-3 my-5'>JIALONG LANDING PAGE</h3>
-                    <span>Site desenvolvido para a empresa estabelecer suas operações no Brasil, o site permite que o usuário envie formulários de contato sem precisar necessáriamente enviar uma requisição para o Back-end e também algumas animações bem legais!</span>
+                    <span>Site desenvolvido para a empresa estabelecer suas operações no Brasil, o site permite que o usuário envie formulários de contato sem precisar necessáriamente enviar uma requisição para o Back-end e, também, algumas animações variadas!</span>
                     <div className="techUsed d-flex alig-items-center justify-content-center my-3">
                         <div className="tech ms-3">
                             <strong>JAVASCRIPT</strong>
@@ -38,7 +38,7 @@ const Portfolio = () => {
                 </div>
                 <div className="col-lg-6 col-md-12 col-sm-12 col-12 order-lg-1 order-2 d-flex flex-column align-items-center justify-content-center">
                     <h3 className='mb-3 my-5'>GYM PROGRESS WEB APP</h3>
-                    <span>Aplicação desenvolvida para o usuário registrar sua ficha de treino, e seu progresso em cargas máximas! Uma mão na roda pra quem faz exercícios e quer se organizar para evoluir dentro do ambiente da academia.</span>
+                    <span>Aplicação desenvolvida para o usuário registrar sua ficha de treino e seu progresso em cargas máximas! Uma mão na roda pra quem faz exercícios e quer se organizar para evoluir dentro do ambiente da academia.</span>
                     <div className="techUsed d-flex alig-items-center justify-content-center my-3">
                         <div className="tech ms-3">
                             <strong>JAVASCRIPT</strong>

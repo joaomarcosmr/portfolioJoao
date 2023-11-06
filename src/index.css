@@ -1,5 +1,15 @@
 /* HOME SECTION */
 
+::-webkit-scrollbar{
+  width: 10px;
+  background-color: rgb(0, 0, 0);
+}
+
+::-webkit-scrollbar-thumb{
+  width: 10px;
+  background-color: #5A7FFB;
+  border-radius: 15px;
+}
 
 @keyframes fadeIn {
   from {
