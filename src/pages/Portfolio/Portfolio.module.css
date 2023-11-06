@@ -1,0 +1,64 @@
+.portfolio{
+    color: white;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.portfolio h2{
+    font-weight: 800;
+    font-size: 1.7em;
+}
+
+.portfolio h3{
+    font-weight: 800;
+    font-size: 1.2em;
+}
+
+.portfolio p{
+    color: white;
+    font-weight: 600;
+    font-size: 1.2em;
+}
+
+.portfolio span{
+    color: rgb(179, 179, 179);
+    text-align: center;
+    width: 70%;
+    font-weight: 400;
+    font-size: 1em;
+}
+
+svg{
+    font-size: 1.2em;
+    fill: #FFF;
+}
+
+@media (min-width: 1400px){
+    .portfolio{
+        width: 70%;
+    }
+}
+
+@media (max-width: 1600px){
+    .portfolio{
+        width: 70%;
+    }
+}
+
+@media (max-width: 1400px){
+    .portfolio{
+        width: 80%;
+    }
+}
+
+@media (max-width: 1300px){
+    .portfolio{
+        width: 80%;
+    }
+}
+
+@media (max-width: 1200){
+    .portfolio{
+        width: 80%;
+    }
+}

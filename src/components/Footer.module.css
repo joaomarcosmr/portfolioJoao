@@ -1,0 +1,28 @@
+.footer{
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.footer p{
+    font-size: 1em;
+    text-align: center;
+    margin-left: 10px;
+    width: 60%;
+    font-weight: 600;
+    color: white;
+}
+
+.footer svg{
+    font-size: 2em;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    transition: 0.2s ease-in;
+}
+
+.footer svg:hover{
+    font-size: 2.8em;
+}

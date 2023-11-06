@@ -1,0 +1,35 @@
+.skill{
+    background: rgb(27, 27, 27);
+    background: linear-gradient(90deg, rgb(19, 19, 19) 10%, rgb(15, 15, 15) 49%, rgba(19, 19, 19) 90%);
+    color: white;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.skill h2{
+    color: #5A7FFB;
+    font-weight: 800;
+    font-size: 1.5em;
+}
+
+.skill h3{
+    font-weight: 700;
+}
+
+.skill p{
+    color: white;
+    font-weight: 600;
+    font-size: 1.3em;
+}
+
+.skill span{
+    color: rgb(179, 179, 179);
+}
+
+@media (min-width: 1400px){
+    .skill{
+        height: auto;
+    }
+  }

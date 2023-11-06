@@ -1,0 +1,32 @@
+.contato{
+    background: rgb(27, 27, 27);
+    background: linear-gradient(90deg, rgb(19, 19, 19) 10%, rgb(15, 15, 15) 49%, rgba(19, 19, 19) 90%);
+    margin-top: 100px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.contato h2{
+    font-weight: 800;
+    font-size: 1.7em;
+}
+
+.contato p{
+    color: white;
+    font-weight: 500;
+    font-size: 1.2em;
+}
+
+.contato svg{
+    font-size: 40px;
+    margin-right: 10px;
+    fill: #5A7FFB;
+}
+
+.contato span{
+    font-size: 1.3em;
+    font-weight: 700;
+    color: white;
+}
