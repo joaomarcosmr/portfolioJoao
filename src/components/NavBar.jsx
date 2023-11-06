@@ -23,7 +23,9 @@ const NavBar = () => {
   return (
     <>
       <div className={style.navbar}>
-            <h2>João.<span>Dev</span></h2>
+            <a href="#">
+              <h2>João.<span>Dev</span></h2>
+            </a>
             <div className={style.pages}>
                 <div className="linkList" id='list'>
                     <ul className='my-3'>

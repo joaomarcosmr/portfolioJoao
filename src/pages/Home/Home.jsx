@@ -42,7 +42,7 @@ const Home = () => {
         </div>
         <div className='col-lg-6 col-md-12 col-sm-12 col-12 order-lg-2 order-1 photo-me'>
           <div className='profilePic'>
-            <a href="#"><img className='profileAnimation' src={perfil} alt="Imagem de perfil" /></a>
+            <img className='profileAnimation' src={perfil} alt="Imagem de perfil" />
           </div>
         </div>
       </div>
